@@ -6,7 +6,7 @@
       "scenes": [
         "landscape"
       ],
-      "manifestUrl": "https://github.com/nightcat-gaga/Chromatica/blob/main/entries.json",
+      "manifestUrl": "https://raw.githubusercontent.com/nightcat-gaga/Chromatica/master/entries.json",
       "license": "https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/LICENSE.txt",
       "more": "https://youtube.com/playlist?list=PL7WA_lqJhJbY6fQAufmHDvjWwi-KOZHFp",
       "local": false,
