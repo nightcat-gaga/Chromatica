@@ -1,0 +1,78 @@
+{
+   "assets":[
+      {
+         "timeOfDay":"sunrise",
+         "accessibilityLabel":"Chromatica",
+         "title":"Enigma",
+         "scene":"space",
+         "id":"video_inspire_chromatica_sunrise_enigma_00001",
+         "url-4K-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_sunrise_4k.mp4",
+         "url-1080-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_sunrise_1080.mov",
+         "pointsOfInterest" : {
+            "0" : "We could be lovers, even just tonight"
+         }
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Chromatica",
+         "title":"Free Woman",
+         "scene":"space",
+         "id":"video_inspire_chromatica_daylight_freewoman_00002",
+         "url-4K-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_day1_4k.mp4",
+         "url-1080-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_day1_1080.mov",
+         "pointsOfInterest" : {
+            "0" : "I walk the downtown, hear my sound"
+         }
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Chromatica",
+         "title":"Rain On Me",
+         "scene":"space",
+         "id":"video_inspire_chromatica_daylight_rainonme_00003",
+         "url-4K-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_day2_4k.mp4",
+         "url-1080-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_day2_1080.mov",
+         "pointsOfInterest" : {
+            "0" : "I'll rather be dry, but at least I'm alive"
+         }
+      },
+      {
+         "timeOfDay":"sunset",
+         "accessibilityLabel":"Chromatica",
+         "title":"Stupid Love",
+         "scene":"space",
+         "id":"video_inspire_chromatica_sunset_stupidlove_00004",
+         "url-4K-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source-2/dawn_sunset_4k.mp4",
+         "url-1080-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source-2/dawn_sunset_1080.mov",
+         "pointsOfInterest" : {
+            "0" : "All I ever wanted was love..."
+         }
+      },
+      {
+         "timeOfDay":"night",
+         "accessibilityLabel":"Chromatica",
+         "title":"Babylon",
+         "scene":"space",
+         "id":"video_inspire_chromatica_night_babylon_00005",
+         "url-4K-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_night1_4k.mp4",
+         "url-1080-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_night1_4k.mov",
+         "pointsOfInterest" : {
+            "0" : "Strut it out, walk a mile"
+         }
+      },
+      {
+         "timeOfDay":"night",
+         "accessibilityLabel":"Chromatica",
+         "title":"911",
+         "scene":"space",
+         "id":"video_inspire_chromatica_night_911_00006",
+         "url-4K-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_night2_4k.mp4",
+         "url-1080-SDR":"https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/dawn_night2_1080.mov",
+         "pointsOfInterest" : {
+            "0" : "My biggest enemy is me"
+         }
+      }
+   ],
+   "version":1,
+   "initialAssetCount":0
+}
