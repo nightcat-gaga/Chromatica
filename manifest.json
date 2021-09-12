@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "name": "Dawn of Chromatica Landscape Videos from Nightcat",
+      "description": "Enjoy these beautiful scenes of Chromatica! If you want to see my Chromatica lyric videos, press More button below.",
+      "scenes": [
+        "landscape"
+      ],
+      "manifestUrl": "https://github.com/nightcat-gaga/Chromatica/blob/a7794e9b7fcc6c7431caea18879fc09cfd0b3cb4/entries.json",
+      "license": "https://github.com/nightcat-gaga/Chromatica/releases/download/dawn-source/LICENSE.txt",
+      "more": "https://youtube.com/playlist?list=PL7WA_lqJhJbY6fQAufmHDvjWwi-KOZHFp",
+      "local": false,
+      "cacheable": true
+    }
+  ]
+}
